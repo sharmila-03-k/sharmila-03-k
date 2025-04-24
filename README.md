@@ -3,7 +3,7 @@
 - 👀 I’m interested in **Machine Learning**, **Data Science**, and **AI-powered applications**
 - 🌱 I’m currently learning **Deep Learning**, **Flask**, and **Docker**
 - 💞️ I’m looking to collaborate on **open-source AI/ML projects**
-- 📫 How to reach me: **sharmila.dev03@gmail.com** *(or your preferred contact)*
+- 📫 How to reach me: **sharmilakuntamukkala@gmail.com** 
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: I love solving real-world problems with code and coffee ☕💻
 
